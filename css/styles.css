@@ -1,5 +1,10 @@
 
 body {
-    background-color: aquamarine;
-    
+    font-family: Arial, verdana, sans-serif;
+}
+h1 {
+    color: #ee3e80;
+}
+p {
+    color: #665544;
 }
